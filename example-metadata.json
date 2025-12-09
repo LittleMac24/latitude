@@ -1,0 +1,16 @@
+{
+    "platform": "web", 
+    "userAgent": "mozilla/5.0 (linux; android 15; sm-s918u1 build/ap3a.240905.015.a2; wv) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/140.0.7339.208 mobile safari/537.36",
+    "adventureId": "174525903", #Game State --> Game Session Instance
+    "scenarioId": "2503121", #Game State --> Represents In-Game-Scenario
+    "actionType": "retry", 
+    "clientInfo": { # Same Info??
+        "platform": "web",
+        "userAgent": "mozilla/5.0 (linux; android 15; sm-s918u1 build/ap3a.240905.015.a2; wv) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/140.0.7339.208 mobile safari/537.36",
+        "adventureId": "174525903",
+        "scenarioId": "2503121",
+        "actionType": "retry"
+    },
+    "ipAddress": "73.173.55.98",
+    "releaseStage": "production"
+}
