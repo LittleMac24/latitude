@@ -1,0 +1,23 @@
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# Virtual Environments
+# ========================
+.venv/
+venv/
+env/
+ENV/
+latitude-py3.14/
+
+# ========================
+# Data Files — do not track large or private datasets
+# ========================
+latitude_event_data.csv
+
+
+.vscode/
+
